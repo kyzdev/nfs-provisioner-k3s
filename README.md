@@ -1,4 +1,4 @@
-# traefik-k3s
+# nfs-provisioner-k3s
 
 A kubectl YAML to deploy a NFS Provisioner on Kubernetes
 
