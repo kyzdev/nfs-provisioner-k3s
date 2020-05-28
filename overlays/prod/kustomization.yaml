@@ -1,0 +1,8 @@
+bases:
+  - ../../base
+patches:
+  - nfs-deployment.yaml
+images:
+- name: quay.io/kubernetes_incubator/nfs-provisioner
+  newName: quay.io/kubernetes_incubator/nfs-provisioner
+  newTag: v2.3.0
