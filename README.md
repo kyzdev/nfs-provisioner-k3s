@@ -29,4 +29,3 @@ kubectl delete -k overlays/<env>
 ## Credits
 
 https://blog.exxactcorp.com/deploying-dynamic-nfs-provisioning-in-kubernetes/
-https://quay.io/repository/kubernetes_incubator/nfs-provisioner

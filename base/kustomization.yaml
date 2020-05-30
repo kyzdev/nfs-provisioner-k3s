@@ -1,3 +1,4 @@
+namespace: nfs
 resources:
  - nfs-namespace.yaml
  - nfs-class.yaml
